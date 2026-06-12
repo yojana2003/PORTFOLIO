@@ -88,16 +88,10 @@ Quick navigation links and social media profiles.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your portfolio here.
-
----
-
 ## 🔗 Connect With Me
 
 ### GitHub
-https://github.com/yojana2003
+https://github.com/yojana2003?tab=repositories
 
 ### LinkedIn
 https://www.linkedin.com/in/yojana-chaudhari-086924397/
