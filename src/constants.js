@@ -13,7 +13,7 @@ import github from "./assets/skills/github.png"
 import vscode from "./assets/skills/vscode.png"
 import figma from "./assets/skills/figma.png"
 import foodrushImg from "./assets/work/foodrushImg.png"
-import passwordGen from "./assets/work/passwordGen.png"
+import passwordGen from "./assets/work/PasswordGen.png"
 import clgImg from "./assets/education/clgImg.jpeg"
 import felix from "./assets/education/felix.jpeg"
 
