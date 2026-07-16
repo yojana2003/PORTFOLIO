@@ -93,7 +93,7 @@ https://github.com/yojana2003?tab=repositories
 https://www.linkedin.com/in/yojana-chaudhari-086924397/
 
 ### 🌐 Live Demo
-enchanting-flan-e0092b.netlify.app
+https://enchanting-flan-e0092b.netlify.app
 
 ---
 
