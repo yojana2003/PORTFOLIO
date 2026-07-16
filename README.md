@@ -2,10 +2,6 @@
 
 A modern and fully responsive personal portfolio website built using **React.js**, **Vite**, and **Tailwind CSS**. This portfolio showcases my skills, projects, education, and professional profile with an attractive and interactive user interface.
 
-## 🚀 Live Demo
-
-enchanting-flan-e0092b.netlify.app
-
 ---
 
 ## 📌 Features
@@ -95,6 +91,9 @@ https://github.com/yojana2003?tab=repositories
 
 ### LinkedIn
 https://www.linkedin.com/in/yojana-chaudhari-086924397/
+
+### 🌐 Live Demo
+https://your-portfolio-live-link.netlify.app/
 
 ---
 
