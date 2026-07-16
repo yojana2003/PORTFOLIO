@@ -16,7 +16,7 @@ import foodrushImg from "./assets/work/foodrushImg.png"
 import passwordGen from "./assets/work/PasswordGen.png"
 import clgImg from "./assets/education/clgImg.jpeg"
 import felix from "./assets/education/felix.jpeg"
-
+import tours from "./assets/work/tours&travel.png"
 
 
 export const SkillsInfo = [
@@ -79,6 +79,16 @@ export const projects = [
       github: "https://github.com/yojana2003/FOOD-RUSH",
       webapp: "https://foodrush-delivery.netlify.app/",
     },
+    {
+      id: 3,
+      title: "TOURS & TRAVEL",
+      description:
+        "This is a responsive travel and tourism website built using React.js and Tailwind CSS. It features reusable components such as Hero, About, Services, Packages, Features, CTA, and Footer, along with smooth scrolling using react-scroll. The website uses AOS (Animate On Scroll) for interactive animations and dynamically renders travel packages and features using React's .map() method, providing a modern and engaging user experience. ",
+      image:tours,
+      tags: ["HTML", "React JS", "TailwindCSS"],
+      github: "https://github.com/yojana2003/Travel-E-commerce-",
+      webapp: "https://thunderous-stardust-906c1a.netlify.app/",
+    },
     
   ];  
 
@@ -110,5 +120,4 @@ export const projects = [
       desc: "A Full Stack Developer specializing in the MERN stack with experience in building responsive and scalable web applications. Skilled in developing user interfaces using React, building RESTful APIs with Node.js and Express.js, and managing data with MongoDB. Familiar with authentication, routing, and full-stack application workflows, with a strong focus on clean code, performance, and user experience.",
       degree: "Full Stack Developer (MERN Stack)",
     },
-   
   ];
